@@ -3,8 +3,8 @@
 <h1>Hi I'm Sam 👋 </h1>
 
 <h3>Junior Fullstack developer</h3>
-After I graduated as an Engineer back in 2019, my first work experience was to set up an ERP. As rewarding as it was, it felt like I was missing some pieces as I couldn't go in depth in the code of the ERP to plug new interfaces or APIs. That's when I decided to learn code during a 6 months bootcamp and there began my developer's journey.
-For any professional inquiry, you can contact me at <a href='mailto:sami.linard.pro@gmail.com'>sami.linard.pro@gmail.com</a>
+After completing my engineering degree in 2019, my first work experience was setting up an ERP. As rewarding as it was, I felt like I was missing some pieces as I couldn't go deep into the code of the ERP to plug new interfaces or APIs. This is when I decided to learn code during a 6-month boot camp and then began my developer's journey.
+For all business requests, please contact me at <a href='mailto:sami.linard.pro@gmail.com'>sami.linard.pro@gmail.com</a>
 
 <h3>IT skills</h3>
 
