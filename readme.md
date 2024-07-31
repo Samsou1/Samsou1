@@ -4,7 +4,6 @@
 
 <h3>Junior Fullstack developer</h3>
 After completing my engineering degree in 2019, my first work experience was setting up an ERP. As rewarding as it was, I felt like I was missing some pieces as I couldn't go deep into the code of the ERP to plug new interfaces or APIs. This is when I decided to learn code during a 6-month boot camp and then began my developer's journey.
-For all business requests, please contact me at <a href='mailto:sami.linard.pro@gmail.com'>sami.linard.pro@gmail.com</a>
 
 <h3>IT skills</h3>
 
